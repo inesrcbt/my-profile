@@ -1,0 +1,79 @@
+body {
+background-color: lightpink;
+font-family: century gothic
+font-size: 15px;
+}
+
+div {
+	background-color: white;
+	margin: 200px ;
+}
+	 
+
+h1 {
+	font-family: century gothic;
+	font-weight: 100;
+	font-size: 35px;
+	color: black;
+}
+
+p {
+	margin: 50px;
+}
+
+a {
+	margin: 50px
+}
+
+h2 {
+	font-family: century gothic;
+	font-weight: 100;
+	color: pink;
+	margin: 30px
+}
+
+a {
+	color: black;
+}
+a:hover {
+	color: pink;
+}
+
+
+/* Custom design with class */
+
+.container {
+	width: 700px
+	margin: 60px 80px;
+	background-color: lightpink;
+}
+.card-white {
+	background-color: white;
+	padding: 100px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0,1)
+	border-radius: 4px;
+	text-align: center;
+	margin: 20px 0px;
+}
+.img-circle {
+	border-radius: 50%;
+}
+.btn-black {
+	background-color: black;
+	color: white;
+	padding: 10px 15px;
+	border-radius: 4px;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+.list-inline i {
+	font-size: 50px
+}
+
